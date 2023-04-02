@@ -1,5 +1,8 @@
-dataset\snapd
-dataset\bwImage.png
-dataset\gaussianImage.png
-dataset\resizedImage.png
-dataset\thresholdImage.png
+# Ignore generated image files
+dataset/bwImage.png
+dataset/gaussianImage.png
+dataset/resizedImage.png
+dataset/thresholdImage.png
+
+# Ignore the snapd folder
+dataset/snapd/
