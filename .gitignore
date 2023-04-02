@@ -6,3 +6,5 @@ dataset/thresholdImage.png
 
 # Ignore the snapd folder
 dataset/snapd/
+
+.gitignore
